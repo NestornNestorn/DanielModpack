@@ -1,10 +1,4 @@
-## News 17/04/2025
+## News 20/05/2025
 
-Nothing ever happens...
-
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit porttitor molestie. Aliquam eu bibendum est. Pellentesque ut lacus id nunc dictum vestibulum. Maecenas auctor tellus vitae erat blandit mattis. Duis pretium, mi in euismod porta, est velit eleifend leo, at euismod libero dui quis elit. Vestibulum tristique orci urna, vel tristique leo interdum porta. Suspendisse eget sodales eros. Sed faucibus dui leo, nec semper tortor molestie a.
-
-Mauris in justo ac mi vestibulum dictum. Cras posuere arcu sed ligula rhoncus malesuada. Proin ullamcorper volutpat ligula. Mauris tempor eros non mollis suscipit. Sed a ipsum tortor. Aenean fringilla diam sed erat lobortis, rutrum maximus est facilisis. Vivamus sed fringilla massa, eget tristique massa. Ut ut quam sed sem pretium mattis vitae sed nibh. In commodo nunc augue, id posuere nisi viverra sit amet. 
-
-_or does is it? 
+SOMETHING HAPPENED
 
