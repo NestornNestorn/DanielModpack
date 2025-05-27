@@ -6,6 +6,6 @@ As of May 25th, the server is officialy running! If you encounter any bugs/issue
 
 Feel free to use the utilities and resources of Camp Jockey, located west of spawn village.
 
-##Have fun!
+# Have fun!
 -Nestorn
 
