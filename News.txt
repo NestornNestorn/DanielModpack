@@ -1,10 +1,11 @@
-## News 27/05/2025
+## News 27/11/2025
 
-Welcome Daniels !!
+Welcome again Daniels !!
 
-As of May 25th, the server is officially running! If you encounter any bugs/issues or have any suggestions/complains, message @nestorn on discord.
+As of November 27th, the server is officially running! If you encounter any bugs/issues or have any suggestions/complains, message @nestorn on discord.
 
-Feel free to use the utilities and resources of Camp Jockey, located west of spawn village.
+Modpack is automatically updated through Automodpack, but first time join might require fingerprint verification/ignoring the warning, either is fine.
+If you're expiriencing low performance, you can disable or reduce LOD's in Distant Horizons settings.
 
 # Have fun!
 -Nestorn
